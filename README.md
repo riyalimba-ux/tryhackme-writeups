@@ -32,7 +32,8 @@ Each writeup includes:
 
 | # | Room | Difficulty | Category | Key Techniques | Writeup |
 |---|------|-----------|----------|----------------|---------|
-| 1 | **HA Joker CTF** | Medium | Web/Linux | Hydra, Joomla RCE, LXD PrivEsc | [📝 Read](./HA-Joker.md) |
+| 1 | **HA Joker CTF** | 🟡 Medium | Web / Linux | Hydra, Joomla RCE, LXD PrivEsc | [📝 Read](./HA-Joker.md) |
+| 2 | **Blue** | 🟢 Easy | Windows / Network | EternalBlue (MS17-010), Mimikatz | [📝 Read](./Blue.md) |
 
 ---
 
